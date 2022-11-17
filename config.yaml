@@ -1,5 +1,5 @@
-baseURL: https://yjdongart.github.io # todo: change site url.
-title: Eternity # todo: change site name.
+baseURL: https://yjdong.art
+title: Yan Jun Dong
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
@@ -8,7 +8,7 @@ params:
   image: /images/banner.png
   subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
-  author: Lovely Author # todo: set your full name.
+  author: Yan Jun Dong
   dontShowSource: false # please, do not do this :)
   portfolio:
     columns:
@@ -19,7 +19,10 @@ params:
   socials:
     # todo: add your social accounts.
     - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
+      url: 'mailto:yjdongart@gmail.com'
+      landing: true
+    - icon: 'fab fa-instagram fa-lg'
+      url: 'https://instagram.com/sharon_from_planet_b612'
       landing: true
   # homepage: "/work" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
