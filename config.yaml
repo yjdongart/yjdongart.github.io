@@ -6,25 +6,27 @@ googleAnalytics: '' # todo: set your analytics id.
 
 params:
   image: /images/banner.png
-  subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
+  subtitle: Yan Jun Dong
   copyright: All rights reserved. # todo: set your copyright type.
   author: Yan Jun Dong
-  dontShowSource: false # please, do not do this :)
+  dontShowSource: true # please, do not do this :)
   portfolio:
     columns:
       desktop:
+        archive: 6
         default: 3
       mobile:
+        archive: 3
         default: 2
   socials:
     # todo: add your social accounts.
-    - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:yjdongart@gmail.com'
-      landing: true
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.com/sharon_from_planet_b612'
       landing: true
-  # homepage: "/work" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
+    - icon: 'far fa-envelope fa-lg'
+      url: 'mailto:yjdongart@gmail.com'
+      landing: true
+  homepage: "/work" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
 
 markup:
@@ -40,8 +42,14 @@ permalinks:
   work: ":filename/"
 
 # todo: uncomment menu.main array after you create contents.
-# menu:
-#   main:
-#     - name: work
-#       url: /work/
-#       weight: 1
+menu:
+  main:
+    - name: work
+      url: /work/
+      weight: 1
+    - name: archive
+      url: /tags/archive/
+      weight: 2
+    # - name: about
+    #   url: /about/
+    #   weight: 3
