@@ -6,7 +6,7 @@ googleAnalytics: '' # todo: set your analytics id.
 
 params:
   image: /images/banner.png
-  subtitle: Yan Jun Dong
+  subtitle: 董彦君 Yan Jun Dong
   copyright: All rights reserved. # todo: set your copyright type.
   author: Yan Jun Dong
   dontShowSource: true # please, do not do this :)
