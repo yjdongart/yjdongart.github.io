@@ -1,7 +1,7 @@
 ---
 title: Peacock Mini
 images:
-- /images/image5.png
+- /images/20869f89.png
 tags:
 - work
 - archive

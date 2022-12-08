@@ -1,6 +1,6 @@
 ---
 images:
-- /images/image8.png
+- /images/59b30b85.png
 title: Peacock King
 tags:
 - work
