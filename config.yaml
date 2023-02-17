@@ -21,7 +21,16 @@ params:
   socials:
     # todo: add your social accounts.
     - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.com/sharon_from_planet_b612'
+      url: 'https://instagram.com/yjdongart'
+      landing: true
+    - icon: 'far fa-brands fa-tiktok fa-lg'
+      url: 'https://www.tiktok.com/@yanjundongart'
+      landing: true
+    - icon: 'far fa-brands fa-youtube fa-lg'
+      url: 'https://www.youtube.com/@yanjundong'
+      landing: true
+    - icon: 'far fa-brands fa-bilibili fa-lg'
+      url: 'https://space.bilibili.com/443140821'
       landing: true
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:yjdongart@gmail.com'
