@@ -24,7 +24,7 @@ params:
       url: 'https://instagram.com/yjdongart'
       landing: true
     - icon: 'far fa-brands fa-tiktok fa-lg'
-      url: 'https://www.tiktok.com/@yanjundongart'
+      url: 'https://www.tiktok.com/@yjdongart'
       landing: true
     - icon: 'far fa-brands fa-youtube fa-lg'
       url: 'https://www.youtube.com/@yanjundong'
